@@ -1,2 +1,4 @@
 # chocolisto
-prit ("queso");
+print ("queso");
+
+print ("buenasss");
